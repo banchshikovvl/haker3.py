@@ -20,4 +20,6 @@ sentence = 'The Cat in the Hat'
 print(sentence.upper()) #=> 'THE CAT IN THE HAT'
 print(sentence.lower()) #=> 'the cat in the hat'
 
+print('кто здесь?!')
+
 
